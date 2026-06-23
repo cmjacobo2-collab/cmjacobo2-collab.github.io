@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.cmjacobo2_collab.twa",
+      "sha256_cert_fingerprints": [
+        "6D:68:B2:38:EA:42:4C:3C:34:A6:F5:FD:C0:F3:8A:43:E5:FF:4E:C0:4E:C5:1D:12:0C:67:A3:0A:6C:88:3D:58",
+        "A9:91:98:8D:82:0E:ED:81:51:6E:1D:AE:9B:E8:9F:05:92:5C:6B:3A:D8:A2:57:8E:16:4F:C0:5E:12:B8:C4:F8"
+      ]
+    }
+  }
+]
